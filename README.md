@@ -39,7 +39,7 @@ The model is evaluated using:
 - **Loss Curves**: Training vs Validation loss plots
 
 ### **Results** 
-For initial learning rate 0.001 & 0.005 
+###### For initial learning rate 0.001 & 0.005 
 ----
                 Baseline Unet  |   Transformed Unet | Attention Unet | ResNet 50  |  ResNet101
    
